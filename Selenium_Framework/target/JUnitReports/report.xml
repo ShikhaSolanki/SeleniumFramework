@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.267" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify the login popup" name="Verify that on Login popup Mobile No. input Box is present" time="0.037">
+<system-out><![CDATA[
+Given Open the Web browser..................................................passed
+And Navigate to MMT Web Page................................................passed
+When Login Popup is Present.................................................passed
+Then Verify Mobile Number Input box is Present..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the login popup" name="Verify that on Login popup ContinueButton  is present" time="0.007">
+<system-out><![CDATA[
+Given Open the Web browser..................................................passed
+And Navigate to MMT Web Page................................................passed
+When Login Popup is Present.................................................passed
+Then Verify Continue button is Present......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
